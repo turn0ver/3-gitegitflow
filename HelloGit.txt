@@ -1,3 +1,5 @@
 Arquivo teste para submissão no git.
 
 Texto para a feature 1.
+
+Texto para a feature 2.
